@@ -1,7 +1,9 @@
 # Projeto de Análise de Dados
-Projeto de Análise de Dados para a certificação DACS(DATA ANALYTICS CERTIFIED SPECIALIST)
--os dados se tratam de ocorrências de ataques contemporâneos sintéticos
--Fonte de dados: 
+Projeto de Análise de Dados para a certificação DACS(DATA ANALYTICS CERTIFIED SPECIALIST) da Data Science Academy do Bootcamp de Certificação de analista de dados 
+
+- Os dados se tratam de ocorrências de ataques contemporâneos sintéticos
+  
+- Fonte de dados: 
 https://research.unsw.edu.au/projects/unsw-nb15-dataset
 
 
